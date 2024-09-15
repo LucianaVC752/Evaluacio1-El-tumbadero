@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\bin\Debug\net8.0-windows\Evaluacion1.exe
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\bin\Debug\net8.0-windows\Evaluacion1.deps.json
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\bin\Debug\net8.0-windows\Evaluacion1.runtimeconfig.json
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\bin\Debug\net8.0-windows\Evaluacion1.dll
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\bin\Debug\net8.0-windows\Evaluacion1.pdb
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.Form1.resources
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.AssemblyInfo.cs
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.sourcelink.json
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.dll
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\refint\Evaluacion1.dll
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.pdb
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\Evaluacion1.genruntimeconfig.cache
+C:\Users\hp\source\repos\Evaluacion1\Evaluacion1\obj\Debug\net8.0-windows\ref\Evaluacion1.dll
